@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathnael
 - 👀 I’m interested in problem focused design thinking and using programming to design feasible solutions
-- 🌱 I’m currently studying a computer science at Minerva university (Sophomore)
+- 🌱 I’m currently studying a computer science at Minerva university (Rising Junior)
 - 📫 How to reach me - LinkedIn profile(www.linkedin.com/in/nathanseasn), work email(nathnaelc@uni.minerva.edu)
 - My website [nathanseas](https://www.nathanseas.net) is getting ready!!
 <!---
